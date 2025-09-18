@@ -9,3 +9,10 @@ The scripts include the implementation of the cellular automaton based on the pr
 - `Fase 2/`: Contains more complex challenges.
 
 This repository serves both as an educational example and as a portfolio of computational problem-solving solutions.
+
+**Necessário:**
+- Python 3.10+
+- MongoDB 
+- pymongo 
+- Numpy 
+- Numba
