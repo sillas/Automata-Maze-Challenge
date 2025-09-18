@@ -10,8 +10,7 @@ The scripts include the implementation of the cellular automaton based on the pr
 
 This repository serves both as an educational example and as a portfolio of computational problem-solving solutions.
 
-**Necessário:**
-- Python 3.10+
+**Required modules:* (Python 3.10+)
 - MongoDB 
 - pymongo 
 - Numpy 
